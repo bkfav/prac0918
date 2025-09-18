@@ -150,7 +150,7 @@ class prac17{
 		}
 	}
 	public static void main(String[] args){
-		//revstr();	
+		revstr();	
 		//facto(); 
 		//prime();
 		//fibonanci();
